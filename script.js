@@ -36,10 +36,4 @@ $(document).ready(function() {
     html += "<p>Humidity: " + currentWeather.humidity + "%</p>";
     html += "<p>Wind Speed: " + currentWeather.wind_kph + " km/h</p>";
 
-    html += "<h2>5-Day Forecast</h2>";
-    forecast.forEach(function(day) {
-      var date = new Date(day.date);
-      html += "<h3>" + date.toLocaleDateString() + "</h3>";
-      html += "<p>Temperature: " + day.day.avgtemp_c + "°C</p>";
-      html += "<p>Humidity: " + day.day.avghumidity + "%</p>";
-      html += "<p>Wind Speed: " + day.day.maxwind_kph + " km/h</
+    html
