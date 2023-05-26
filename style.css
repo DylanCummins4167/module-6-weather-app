@@ -39,3 +39,10 @@ h1 {
 #weather-info {
   font-size: 18px;
 }
+
+.forecast-item {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
