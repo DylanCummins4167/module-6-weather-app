@@ -1,7 +1,7 @@
 Weather App!
 In this challenge, I have created a real time, working weather application that gives you accuarte humidity, wind speed and temperature of any specified city.
 Here is an image of the website.
-![image](https://github.com/DylanCummins4167/module-6-weather-app/assets/129929151/cf9f7326-f6ee-4a87-aa6f-8330f2879cd6)
+![image](https://github.com/DylanCummins4167/module-6-weather-app/assets/129929151/0f76afc6-d497-4da9-a1c7-caedd6731554)
 As well as current temperature, wind speed and humidity for the current day, the application also presents the forecast for the next 5 days.
 I have also used the API provided to us in the module 6 challenge to fetch the weather data for the current day, as well as the next 5 days.
 As well as fetching the correct weather information, I implemented a function using javascript to log an error message when an invalid city name has been typed and searched for. 
